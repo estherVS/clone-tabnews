@@ -1,2 +1,2 @@
 # clone-tabnews
-A clone of the https://tabnews.com.br 
+A clone of the https://tabnews.com.br project.
