@@ -2,7 +2,7 @@ function Home() {
     return(
         <div>
             <h1> 
-                If you wish to make an apple pie from scratch, you must first invent the universe  
+                difference
             </h1>
         </div>)
 
