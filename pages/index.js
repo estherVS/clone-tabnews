@@ -2,7 +2,7 @@ function Home() {
     return(
         <div>
             <h1> 
-                difference
+                A mensagem muda conforme é interpretada.
             </h1>
         </div>)
 
